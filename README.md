@@ -7,10 +7,6 @@
 0만큼 간격이 있는 3개의 숫자: [0, 0, 0]  
 2만큼 간격이 있는 5개의 숫자: [2, 4, 6, 8, 10]  
 
-solution(0, 3)  [0, 0, 0]  
-solution(2, 5)  [2, 4, 6, 8, 10]  
-solution(67, 100)   
-
 <details markdown="1">
 <summary>펼치기</summary>
 
